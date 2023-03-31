@@ -1,5 +1,3 @@
-splix
-
 -- // Variables
 local ws = game:GetService("Workspace")
 local uis = game:GetService("UserInputService")
